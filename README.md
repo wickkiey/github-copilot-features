@@ -10,7 +10,7 @@ Welcome to the guide on Github Copilot features in Visual Studio Code. Here, you
 
 Start typing and you will see suggestions from Copilot.
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v1.mp4" title="Inline Completion"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v1.mp4
 
 ---
 
@@ -18,7 +18,7 @@ Start typing and you will see suggestions from Copilot.
 
 Press `CMD + I` to see the command palette and type `prompt` to get the generated code.
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v2.mp4" title="Inline Command"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v2.mp4
 
 ---
 
@@ -26,7 +26,7 @@ Press `CMD + I` to see the command palette and type `prompt` to get the generate
 
 Use mouse to highlight the code and type the prompt to get the required code/changes.
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v3.mp4" title="Highlight for Suggestion"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v3.mp4
 
 ---
 
@@ -34,7 +34,7 @@ Use mouse to highlight the code and type the prompt to get the required code/cha
 
 Copilot chat is a great way to interact with Copilot. You can ask questions, get suggestions and much more. Also it tracks the history of the chat you can converse with it.
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v4.mp4" title="Copilot Chat Interaction"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v4.mp4
 
 ---
 
@@ -42,7 +42,7 @@ Copilot chat is a great way to interact with Copilot. You can ask questions, get
 
 You can highlight the code and ask Copilot to ask question or to make changes.
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v5.mp4" title="Copilot Chat highlighted"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v5.mp4
 
 ---
 
@@ -52,7 +52,7 @@ You can highlight the code and ask Copilot to ask question or to make changes.
 
 You can generate a project structure and code using `/new` command.
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v61.mp4" title="Workspace /new"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v61.mp4
 
 ---
 
@@ -60,7 +60,7 @@ You can generate a project structure and code using `/new` command.
 
 You can generate a new notebook using `/newNotebook` command.
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v62.mp4" title="Workspace /newNotebook"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v62.mp4
 
 ---
 
@@ -71,11 +71,11 @@ It works for Explain, Fix and Generate docs / test.
 
 * Generate Docs
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v71.mp4" title="Right Clicks"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v71.mp4
 
 * Generates Unit Test
 
-<video controls src="https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v72.mp4" title="Right Clicks"></video>
+https://raw.githubusercontent.com/wickkiey/github-copilot-features/main/media/v72.mp4
 
 ---
 
