@@ -10,8 +10,9 @@ Welcome to the guide on Github Copilot features in Visual Studio Code. Here, you
 
 Start typing and you will see suggestions from Copilot.
 
+https://github.com/wickkiey/github-copilot-features/blob/main/media/v1.mp4
 
-<video controls src="media/v1.mp4" title="Title"></video>
+<video controls src="https://github.com/wickkiey/github-copilot-features/blob/media/v1.mp4" title="Title"></video>
 ---
 
 ### 2️⃣ Inline Command (CMD + I)
