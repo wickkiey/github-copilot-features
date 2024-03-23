@@ -4,6 +4,10 @@ Welcome to the guide on Github Copilot features in Visual Studio Code. Here, you
 
 ---
 
+
+https://github.com/wickkiey/github-copilot-features/assets/4669882/7c7a838b-7a6c-43e2-ac05-674f784ead07
+
+
 ## 🎯 Features
 
 ### 1️⃣ Inline Completion/Suggestion
@@ -14,6 +18,10 @@ https://github.com/wickkiey/github-copilot-features/blob/main/media/v1.mp4
 
 <video controls src="https://github.com/wickkiey/github-copilot-features/blob/media/v1.mp4" title="Title"></video>
 ---
+
+
+https://github.com/wickkiey/github-copilot-features/assets/4669882/761a80b8-2b08-456d-b7c4-f23eedbdce30
+
 
 ### 2️⃣ Inline Command (CMD + I)
 
